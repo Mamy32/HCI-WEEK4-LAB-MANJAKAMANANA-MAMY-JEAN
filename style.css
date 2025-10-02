@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    background-color: rgb(3, 3, 32);
+    font-family: Roboto sans-serif;
+}
+
+.contener .content {
+    width: 600px;
+    text-align: center;
+    margin: 170px auto;
+}
+
+.announcement {
+    display: inline-block;
+    color: rgb(190, 189, 189);
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.158);
+}
+
+span {
+    color: white;
+}
+
+.element {
+    text-align: justify;
+    margin-top: 20px;
+    color: rgb(190, 189, 189);
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: rgb(111, 25, 190);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10px;
+}
+
+.title {
+    font-size: 50px;
+    margin-top: 20px;
+    color: white;
+}
